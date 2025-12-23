@@ -13,12 +13,12 @@
 - [x] CZ Czech Republic
 - [x] DE Germany | I live in Frankfurt / Main. Have lived in Munich, Bavaria; Wil/Ch; Vienna/AT; Stuttgart, DE; Bonn, DE
 - [x] DK Denmark
-- [x] EE Estonia
+- [x] EE Estonia | Been to Tallin roaming the amazing city and visiting the outstanding Proto exibition
 - [x] ES Spain
-- [x] FI Finland
+- [x] FI Finland | Explored the city ona segway scooter and for running
 - [ ] FO Faroe Islands
 - [ ] FR France
-- [x] GB United Kingdom | Visited UK for work several times
+- [x] GB United Kingdom | Visited Windsor and Bracknell for work several times, Southhampton for holidays
 - [ ] GG Guernsey
 - [x] GI Gibraltar | Visited on a holiday trip and to to vitit the caves and the apes
 - [ ] GR Greece
@@ -30,16 +30,16 @@
 - [x] IT Italy | Went there for vacation
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [x] LT Lithuania | Visited Riga during a cruie
+- [ ] LT Lithuania
 - [ ] LU Luxembourg
-- [x] LV Latvia
+- [x] LV Latvia | Visited wonderfull Riga and stunning Jurmala
 - [ ] MC Monaco
 - [ ] MD Moldova
 - [ ] ME Montenegro
 - [ ] MK Macedonia
 - [ ] MT Malta
 - [x] NL Netherlands
-- [x] NO Norway
+- [x] NO Norway | Visited Oslos must see Vigeland park
 - [ ] PL Poland
 - [ ] PT Portugal
 - [x] RO Romania | I have been to this amazing city to condiuct a workshop
