@@ -13,7 +13,7 @@
 - [x] CZ Czech Republic
 - [x] DE Germany | I live in Frankfurt / Main. Have lived in Munich, Bavaria; Wil/Ch; Vienna/AT; Stuttgart, DE; Bonn, DE
 - [x] DK Denmark
-- [ ] EE Estonia
+- [x] EE Estonia
 - [ ] ES Spain
 - [x] FI Finland
 - [ ] FO Faroe Islands
