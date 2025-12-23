@@ -20,7 +20,7 @@
 - [ ] FR France
 - [x] GB United Kingdom | Visited Windsor and Bracknell for work several times, Southhampton for holidays
 - [ ] GG Guernsey
-- [x] GI Gibraltar | Visited on a holiday trip and to to vitit the caves and the apes
+- [x] GI Gibraltar | Visited on a holiday trip and to to visit the caves and the apes
 - [ ] GR Greece
 - [ ] HR Croatia
 - [ ] HU Hungary
