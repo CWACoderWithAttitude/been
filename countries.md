@@ -2,16 +2,16 @@
 
 - [ ] AD Andorra
 - [ ] AL Albania
-- [x] AT Austria
+- [x] AT Austria | I haved lived here for somt time
 - [ ] AX Aland Islands
 - [ ] BA Bosnia and Herzegovina
 - [X] BE Belgium
 - [ ] BG Bulgaria
 - [ ] BY Belarus
-- [x] CH Switzerland
+- [x] CH Switzerland | I lived and worked in here fro some time
 - [ ] CY Cyprus
 - [x] CZ Czech Republic
-- [x] DE Germany | I live in Frankfurt / Main. Have lived in Munich, Bavaria; Wil/Ch; Vienna/AT; Stuttgart, DE; Bonn, DE
+- [x] DE Germany | I live in Frankfurt / Main.
 - [x] DK Denmark
 - [x] EE Estonia | Been to Tallin roaming the amazing city and visiting the outstanding Proto exibition
 - [x] ES Spain
@@ -30,7 +30,7 @@
 - [x] IT Italy | Went there for vacation
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [ ] LT Lithuania
+- [ ] LT Lithuania | Explored Kleipeda by hiking and running
 - [ ] LU Luxembourg
 - [x] LV Latvia | Visited wonderfull Riga and stunning Jurmala
 - [ ] MC Monaco
