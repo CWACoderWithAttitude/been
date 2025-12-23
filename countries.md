@@ -41,7 +41,7 @@
 - [x] NL Netherlands
 - [x] NO Norway | Visited Oslos must see Vigeland park
 - [ ] PL Poland
-- [ ] PT Portugal
+- [ ] PT Portugal | Amazing canyoning and running in and arouind funchal
 - [x] RO Romania | I have been to this amazing city to condiuct a workshop
 - [ ] RS Serbia
 - [ ] RU Russia
@@ -218,7 +218,7 @@
 - [ ] BZ Belize
 - [ ] CR Costa Rica
 - [ ] CU Cuba
-- [ ] DO Dominican Republic
+- [ ] DO Dominican Republic | Started a cruise in La Romana
 - [ ] GT Guatemala
 - [ ] HN Honduras
 - [ ] HT Haiti
@@ -256,7 +256,7 @@
 - [x] AG Antigua and Barbuda
 - [ ] AI Anguilla
 - [ ] AW Aruba
-- [ ] BB Barbados
+- [x] BB Barbados
 - [ ] BL Saint Barthelemy
 - [ ] BQ Bonaire, Saint Eustachius and Saba
 - [ ] BS Bahamas
@@ -268,12 +268,12 @@
 - [ ] IO British Indian Ocean Territory
 - [ ] JU Juan De Nova Island
 - [x] KN Saint Kitts and Nevis
-- [ ] LC Saint Lucia
+- [x] LC Saint Lucia
 - [ ] MF Saint Martin
 - [ ] MQ Martinique
 - [ ] MS Montserrat
 - [ ] SH Saint Helena
 - [ ] SX Saint Martin
 - [ ] TF French Southern and Antarctic Lands
-- [x] VC Saint Vincent and the Grenadines
+- [x] VC Saint Vincent and the Grenadines | Bathing at dark view falls and visiting "port royal"
 - [ ] VG British Virgin Islands
