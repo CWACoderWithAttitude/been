@@ -8,17 +8,17 @@
 - [X] BE Belgium
 - [ ] BG Bulgaria
 - [ ] BY Belarus
-- [x] CH Switzerland | I lived and worked in here fro some time
+- [x] CH Switzerland | I lived & worked here
 - [ ] CY Cyprus
 - [x] CZ Czech Republic
 - [x] DE Germany | I live in Frankfurt / Main.
 - [x] DK Denmark
 - [x] EE Estonia | Been to Tallin roaming the amazing city and visiting the outstanding Proto exibition
 - [x] ES Spain
-- [x] FI Finland | Explored the city ona segway scooter and for running
+- [x] FI Finland | Explored the city on a segway scooter and for running
 - [ ] FO Faroe Islands
 - [ ] FR France
-- [x] GB United Kingdom | Visited Windsor and Bracknell for work several times, Southhampton for holidays
+- [x] GB United Kingdom | Working in Windsor and Bracknell, Southhampton for holidays
 - [ ] GG Guernsey
 - [x] GI Gibraltar | Visited on a holiday trip and to to visit the caves and the apes
 - [ ] GR Greece
@@ -32,7 +32,7 @@
 - [ ] LI Liechtenstein
 - [ ] LT Lithuania | Explored Kleipeda by hiking and running
 - [ ] LU Luxembourg
-- [x] LV Latvia | Visited wonderfull Riga and stunning Jurmala
+- [x] LV Latvia | Visited Riga and Jurmala for exploring, hiking and running
 - [ ] MC Monaco
 - [ ] MD Moldova
 - [ ] ME Montenegro
