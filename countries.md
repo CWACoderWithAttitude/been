@@ -11,26 +11,26 @@
 - [x] CH Switzerland
 - [ ] CY Cyprus
 - [x] CZ Czech Republic
-- [x] DE Germany
+- [x] DE Germany | I live in Frankfurt / Main. Have lived in Munich, Bavaria; Wil/Ch; Vienna/AT; Stuttgart, DE; Bonn, DE
 - [x] DK Denmark
 - [ ] EE Estonia
 - [ ] ES Spain
 - [x] FI Finland
 - [ ] FO Faroe Islands
 - [ ] FR France
-- [x] GB United Kingdom
+- [x] GB United Kingdom | Visited UK for work several times
 - [ ] GG Guernsey
-- [x] GI Gibraltar
+- [x] GI Gibraltar | Visited on a holiday trip and to to vitit the caves and the apes
 - [ ] GR Greece
 - [ ] HR Croatia
 - [ ] HU Hungary
-- [x] IE Ireland
+- [x] IE Ireland | Several busines trips
 - [ ] IM Isle of Man
 - [ ] IS Iceland
-- [x] IT Italy
+- [x] IT Italy | Went there for vacation
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [x] LT Lithuania
+- [x] LT Lithuania | Visited Riga during a cruie
 - [ ] LU Luxembourg
 - [x] LV Latvia
 - [ ] MC Monaco
@@ -42,7 +42,7 @@
 - [x] NO Norway
 - [ ] PL Poland
 - [ ] PT Portugal
-- [x] RO Romania
+- [x] RO Romania | I have been to this amazing city to condiuct a workshop
 - [ ] RS Serbia
 - [ ] RU Russia
 - [x] SE Sweden
