@@ -14,7 +14,7 @@
 - [x] DE Germany | I live in Frankfurt / Main. Have lived in Munich, Bavaria; Wil/Ch; Vienna/AT; Stuttgart, DE; Bonn, DE
 - [x] DK Denmark
 - [x] EE Estonia
-- [ ] ES Spain
+- [x] ES Spain
 - [x] FI Finland
 - [ ] FO Faroe Islands
 - [ ] FR France
