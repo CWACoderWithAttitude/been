@@ -2,7 +2,7 @@
 
 - [ ] AD Andorra
 - [ ] AL Albania
-- [x] AT Austria | I haved lived here for somt time
+- [x] AT Austria | I used to live in Vienna
 - [ ] AX Aland Islands
 - [ ] BA Bosnia and Herzegovina
 - [X] BE Belgium
@@ -15,12 +15,12 @@
 - [x] DK Denmark
 - [x] EE Estonia | Been to Tallin roaming the amazing city and visiting the outstanding Proto exibition
 - [x] ES Spain
-- [x] FI Finland | Explored the city on a segway scooter and for running
+- [x] FI Finland | Explored Oslo by running the city
 - [ ] FO Faroe Islands
 - [ ] FR France
 - [x] GB United Kingdom | Working in Windsor and Bracknell, Southhampton for holidays
 - [ ] GG Guernsey
-- [x] GI Gibraltar | Visited on a holiday trip and to to visit the caves and the apes
+- [x] GI Gibraltar | Visited caves and the apes
 - [ ] GR Greece
 - [ ] HR Croatia
 - [ ] HU Hungary
@@ -30,7 +30,7 @@
 - [x] IT Italy | Went there for vacation
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [ ] LT Lithuania | Explored Kleipeda by hiking and running
+- [x] LT Lithuania | Explored Kleipeda by hiking and running
 - [ ] LU Luxembourg
 - [x] LV Latvia | Visited Riga and Jurmala for exploring, hiking and running
 - [ ] MC Monaco
@@ -42,10 +42,10 @@
 - [x] NO Norway | Visited Oslos must see Vigeland park
 - [ ] PL Poland
 - [ ] PT Portugal | Amazing canyoning and running in and arouind funchal
-- [x] RO Romania | I have been to this amazing city to condiuct a workshop
+- [x] RO Romania | Been to amazing Bukaresti for busines
 - [ ] RS Serbia
 - [ ] RU Russia
-- [x] SE Sweden
+- [x] SE Sweden | Several times for holiday
 - [ ] SI Slovenia
 - [ ] SJ Svalbard and Jan Mayen
 - [ ] SK Slovakia
@@ -222,7 +222,7 @@
 - [ ] GT Guatemala
 - [ ] HN Honduras
 - [ ] HT Haiti
-- [ ] JM Jamaica
+- [x] JM Jamaica
 - [ ] KY Cayman Islands
 - [ ] MX Mexico
 - [ ] NI Nicaragua
@@ -275,5 +275,5 @@
 - [ ] SH Saint Helena
 - [ ] SX Saint Martin
 - [ ] TF French Southern and Antarctic Lands
-- [x] VC Saint Vincent and the Grenadines | Bathing at dark view falls and visiting "port royal"
+- [x] VC Saint Vincent and the Grenadines | Bathing at Dark View Falls and visiting "Port Royal"
 - [ ] VG British Virgin Islands

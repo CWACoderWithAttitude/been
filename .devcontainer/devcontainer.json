@@ -1,0 +1,50 @@
+{
+  "name": "been",
+  //"dockerfile": "Dockerfile",
+  "dockerComposeFile": [
+    "docker-compose.yml"
+  ],
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  //"image": "mcr.microsoft.com/devcontainers/jekyll:0-bullseye",
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  /*"mounts": [
+    "source=${localEnv:HOME}${localEnv:USERPROFILE},target=/host-home-folder,type=bind,consistency=cached",
+    "source=${localWorkspaceFolder},target=/data,type=bind,consistency=cached"
+  ],*/
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  /*
+  "forwardPorts": [
+    // Jekyll server
+    5000,
+    // Live reload server
+    35730
+  ],
+  */
+  // Use 'postCreateCommand' to run commands after the container is created.
+  //"postCreateCommand": "sh .devcontainer/post-create.sh",
+  //5postCreateCommand": "bundle install --verbose",
+  //"postStartCommand": "bundle exec jekyll serve --baseurl=\"\"",
+  //"postStartCommand": "bundle exec jekyll serve --host=0.0.0.0 --livereload --baseurl=\"\"",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "wesbos.theme-cobalt2",
+        "google.geminicodeassist",
+        "streetsidesoftware.code-spell-checker-german",
+        "streetsidesoftware.code-spell-checker-canadian-english",
+        "DavidAnson.vscode-markdownlint",
+        "redhat.vscode-yaml",
+        "ritwickdey.LiveServer"
+      ]
+    }
+  },
+  "service": "been",
+  "workspaceFolder": "/site",
+  //"postStartCommand": "make serve",
+  // Configure tool-specific properties.
+  // "customizations": {},
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  // "remoteUser": "root"
+  //"remoteUser": "vscode"
+  "shutdownAction": "stopCompose"
+}

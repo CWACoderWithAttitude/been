@@ -1,0 +1,279 @@
+# Europe
+
+- [ ] AD Andorra
+- [ ] AL Albania
+- [x] AT Austria | I used to live in Vienna
+- [ ] AX Aland Islands
+- [ ] BA Bosnia and Herzegovina
+- [X] BE Belgium
+- [ ] BG Bulgaria
+- [ ] BY Belarus
+- [x] CH Switzerland | I lived & worked here
+- [ ] CY Cyprus
+- [x] CZ Czech Republic
+- [x] DE Germany | I live in Frankfurt / Main.
+- [x] DK Denmark
+- [x] EE Estonia | Been to Tallin roaming the amazing city and visiting the outstanding Proto exibition
+- [x] ES Spain
+- [x] FI Finland | Explored Oslo by running the city
+- [ ] FO Faroe Islands
+- [ ] FR France
+- [x] GB United Kingdom | Working in Windsor and Bracknell, Southhampton for holidays
+- [ ] GG Guernsey
+- [x] GI Gibraltar | Visited caves and the apes
+- [ ] GR Greece
+- [ ] HR Croatia
+- [ ] HU Hungary
+- [x] IE Ireland | Several busines trips
+- [ ] IM Isle of Man
+- [ ] IS Iceland
+- [x] IT Italy | Went there for vacation
+- [ ] JE Jersey
+- [ ] LI Liechtenstein
+- [x] LT Lithuania | Explored Kleipeda by hiking and running
+- [ ] LU Luxembourg
+- [x] LV Latvia | Visited Riga and Jurmala for exploring, hiking and running
+- [ ] MC Monaco
+- [ ] MD Moldova
+- [ ] ME Montenegro
+- [ ] MK Macedonia
+- [ ] MT Malta
+- [x] NL Netherlands
+- [x] NO Norway | Visited Oslos must see Vigeland park
+- [ ] PL Poland
+- [ ] PT Portugal | Amazing canyoning and running in and arouind funchal
+- [x] RO Romania | Been to amazing Bukaresti for busines
+- [ ] RS Serbia
+- [ ] RU Russia
+- [x] SE Sweden | Several times for holiday
+- [ ] SI Slovenia
+- [ ] SJ Svalbard and Jan Mayen
+- [ ] SK Slovakia
+- [ ] SM San Marino
+- [ ] UA Ukraine
+- [ ] VA Vatican City
+- [ ] XK Kosovo
+
+# Asia
+
+- [ ] AE United Arab Emirates
+- [ ] AF Afghanistan
+- [ ] AM Armenia
+- [ ] AZ Azerbaijan
+- [ ] BD Bangladesh
+- [ ] BH Bahrain
+- [ ] BN Brunei Darussalam
+- [ ] BT Bhutan
+- [ ] CN China
+- [ ] GE Georgia
+- [ ] HK Hong Kong
+- [ ] ID Indonesia
+- [ ] IL Israel
+- [ ] IN India
+- [ ] IQ Iraq
+- [ ] IR Iran
+- [ ] JO Jordan
+- [ ] JP Japan
+- [ ] KG Kyrgyzstan
+- [ ] KH Cambodia
+- [ ] KP North Korea
+- [ ] KR South Korea
+- [ ] KW Kuwait
+- [x] KZ Kazakhstan
+- [ ] LA Lao People's Democratic Republic
+- [ ] LB Lebanon
+- [ ] LK Sri Lanka
+- [ ] MM Myanmar
+- [ ] MN Mongolia
+- [ ] MO Macau
+- [ ] MV Maldives
+- [ ] MY Malaysia
+- [ ] NP Nepal
+- [ ] OM Oman
+- [ ] PH Philippines
+- [ ] PK Pakistan
+- [ ] PS Palestinian Territories
+- [ ] QA Qatar
+- [ ] SA Saudi Arabia
+- [ ] SG Singapore
+- [ ] SY Syria
+- [ ] TH Thailand
+- [ ] TJ Tajikistan
+- [ ] TL Timor-Leste
+- [ ] TM Turkmenistan
+- [x] TR Turkey
+- [ ] TW Taiwan
+- [ ] UZ Uzbekistan
+- [ ] VN Vietnam
+- [ ] YE Yemen
+
+# Africa
+
+- [ ] AO Angola
+- [ ] BF Burkina Faso
+- [ ] BI Burundi
+- [ ] BJ Benin
+- [ ] BW Botswana
+- [ ] CD Democratic Republic of Congo
+- [ ] CF Central African Republic
+- [ ] CG Republic of Congo
+- [ ] CI Côte d'Ivoire
+- [ ] CM Cameroon
+- [ ] CV Cape Verde
+- [ ] DJ Djibouti
+- [ ] DZ Algeria
+- [x] EG Egypt
+- [ ] EH Western Sahara
+- [ ] ER Eritrea
+- [ ] ET Ethiopia
+- [ ] GA Gabon
+- [ ] GH Ghana
+- [ ] GM Gambia
+- [ ] GN Guinea
+- [ ] GO Glorioso Islands
+- [ ] GQ Equatorial Guinea
+- [ ] GW Guinea-Bissau
+- [ ] KE Kenya
+- [ ] KM Comoros
+- [ ] LR Liberia
+- [ ] LS Lesotho
+- [ ] LY Libya
+- [ ] MA Morocco
+- [ ] MG Madagascar
+- [ ] ML Mali
+- [ ] MR Mauritania
+- [ ] MU Mauritius
+- [ ] MW Malawi
+- [ ] MZ Mozambique
+- [ ] NA Namibia
+- [ ] NE Niger
+- [ ] NG Nigeria
+- [ ] RE Reunion
+- [ ] RW Rwanda
+- [ ] SC Seychelles
+- [ ] SD Sudan
+- [ ] SL Sierra Leone
+- [ ] SN Senegal
+- [ ] SO Somalia
+- [ ] SS South Sudan
+- [ ] ST Sao Tome and Principe
+- [ ] SZ Swaziland
+- [ ] TD Chad
+- [ ] TG Togo
+- [x] TN Tunisia
+- [ ] TZ Tanzania
+- [ ] UG Uganda
+- [ ] YT Mayotte
+- [ ] ZA South Africa
+- [ ] ZM Zambia
+- [ ] ZW Zimbabwe
+
+# Oceania
+
+- [ ] AS American Samoa
+- [ ] AU Australia
+- [ ] CC Cocos Keeling Islands
+- [ ] CK Cook Islands
+- [ ] CX Christmas Island
+- [ ] FJ Fiji
+- [ ] FM Federated States of Micronesia
+- [ ] GU Guam
+- [ ] HM Heard Island and McDonald Islands
+- [ ] KI Kiribati
+- [ ] MH Marshall Islands
+- [ ] MP Northern Mariana Islands
+- [ ] NC New Caledonia
+- [ ] NF Norfolk Island
+- [ ] NR Nauru
+- [ ] NU Niue
+- [ ] NZ New Zealand
+- [ ] PF French Polynesia
+- [ ] PG Papua New Guinea
+- [ ] PN Pitcairn Islands
+- [ ] PW Palau
+- [ ] SB Solomon Islands
+- [ ] TK Tokelau
+- [ ] TO Tonga
+- [ ] TV Tuvalu
+- [ ] UM-DQ Jarvis Island
+- [ ] UM-FQ Baker Island
+- [ ] UM-HQ Howland Island
+- [ ] UM-JQ Johnston Atoll
+- [ ] UM-MQ Midway Islands
+- [ ] UM-WQ Wake Island
+- [ ] VU Vanuatu
+- [ ] WF Wallis and Futuna
+- [ ] WS Samoa
+
+# North America
+
+- [ ] BM Bermuda
+- [ ] CA Canada
+- [ ] GL Greenland
+- [ ] PM Saint Pierre and Miquelon
+- [x] US United States
+
+# Central America
+
+- [ ] BZ Belize
+- [ ] CR Costa Rica
+- [ ] CU Cuba
+- [ ] DO Dominican Republic | Started a cruise in La Romana
+- [ ] GT Guatemala
+- [ ] HN Honduras
+- [ ] HT Haiti
+- [x] JM Jamaica
+- [ ] KY Cayman Islands
+- [ ] MX Mexico
+- [ ] NI Nicaragua
+- [ ] PA Panama
+- [ ] PR Puerto Rico
+- [ ] SV El Salvador
+- [ ] TC Turks and Caicos Islands
+- [x] TT Trinidad and Tobago
+- [ ] VI US Virgin Islands
+
+# South America
+
+- [ ] AR Argentina
+- [ ] BO Bolivia
+- [ ] BR Brazil
+- [ ] CL Chile
+- [ ] CO Colombia
+- [ ] EC Ecuador
+- [ ] FK Falkland Islands
+- [ ] GF French Guiana
+- [ ] GS South Georgia and South Sandwich Islands
+- [ ] GY Guyana
+- [ ] PE Peru
+- [ ] PY Paraguay
+- [ ] SR Suriname
+- [ ] UY Uruguay
+- [ ] VE Venezuela
+
+# Other
+
+- [x] AG Antigua and Barbuda
+- [ ] AI Anguilla
+- [ ] AW Aruba
+- [x] BB Barbados
+- [ ] BL Saint Barthelemy
+- [ ] BQ Bonaire, Saint Eustachius and Saba
+- [ ] BS Bahamas
+- [ ] BV Bouvet Island
+- [ ] CW Curaçao
+- [ ] DM Dominica
+- [ ] GD Grenada
+- [ ] GP Guadeloupe
+- [ ] IO British Indian Ocean Territory
+- [ ] JU Juan De Nova Island
+- [x] KN Saint Kitts and Nevis
+- [x] LC Saint Lucia
+- [ ] MF Saint Martin
+- [ ] MQ Martinique
+- [ ] MS Montserrat
+- [ ] SH Saint Helena
+- [ ] SX Saint Martin
+- [ ] TF French Southern and Antarctic Lands
+- [x] VC Saint Vincent and the Grenadines | Bathing at Dark View Falls and visiting "Port Royal"
+- [ ] VG British Virgin Islands
